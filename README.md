@@ -1,2 +1,2 @@
 # Sześcian
-(dev) kod pełen komentarzy objaśniających niemalże wszystko 
+(dev, OpenGL) kod pełen komentarzy objaśniających niemalże wszystko 
